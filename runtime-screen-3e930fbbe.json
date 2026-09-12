@@ -1,0 +1,27 @@
+{
+  "candidate": "3e930fbbe35185caf012570f44740800a26b8d2e",
+  "completed": 128,
+  "repeats": [
+    {
+      "repeat": 0,
+      "total": 64,
+      "previous_correct": 62,
+      "current_correct": 61,
+      "gains": 0,
+      "losses": 1,
+      "truncated": 1,
+      "request_errors": 0
+    },
+    {
+      "repeat": 1,
+      "total": 64,
+      "previous_correct": 61,
+      "current_correct": 62,
+      "gains": 1,
+      "losses": 0,
+      "truncated": 1,
+      "request_errors": 0
+    }
+  ],
+  "qualification": "Diagnostic only: upstream base, graph4->16 and batch composition differ; not a formal paired noninferiority gate"
+}

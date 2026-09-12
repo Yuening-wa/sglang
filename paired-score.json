@@ -1,0 +1,40 @@
+{
+  "repeats": [
+    {
+      "n": 1319,
+      "gains": 8,
+      "losses": 6,
+      "delta": 0.001516300227445034,
+      "lower_95_conservative": -0.007252513806201893,
+      "margin": 0.01,
+      "noninferiority_bound_passed": true,
+      "repeat": 0,
+      "d1_correct": 1286,
+      "d4_correct": 1288,
+      "d1_truncated": 11,
+      "d4_truncated": 9,
+      "request_errors": 0
+    },
+    {
+      "n": 1319,
+      "gains": 10,
+      "losses": 4,
+      "delta": 0.004548900682335102,
+      "lower_95_conservative": -0.004104869860156253,
+      "margin": 0.01,
+      "noninferiority_bound_passed": true,
+      "repeat": 1,
+      "d1_correct": 1280,
+      "d4_correct": 1286,
+      "d1_truncated": 15,
+      "d4_truncated": 5,
+      "request_errors": 0
+    }
+  ],
+  "primary_repeat": 0,
+  "unique_questions": 1319,
+  "formal_contract_valid": true,
+  "protocol_sha256": "ec541e6e5baa3c113884577b6b088723fe8c86cb2cfc1c5b533dbee636246db5",
+  "formal_primary_gate_passed": true,
+  "note": "Primary repeat0 predeclared; other repeats diagnostic, not pooled. Quality bound alone does not qualify the PR."
+}
